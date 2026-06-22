@@ -1,7 +1,7 @@
 # Awesome GoLand
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme)
-[![Go Version](https://img.shields.io/badge/Go-1.22+-00ADD8?style=flat&logo=go)](https://go.dev/)
+[![Go Version](https://img.shields.io/badge/Go-1.26+-00ADD8?style=flat&logo=go)](https://go.dev/)
 [![GoLand](https://img.shields.io/badge/IDE-GoLand-000000?style=flat&logo=jetbrains)](https://www.jetbrains.com/go/)
 
 > A curated guide to the best tips and tricks for mastering GoLand.
@@ -44,7 +44,7 @@ Whether you're new to GoLand or a seasoned user, this repository helps you unloc
 ## Prerequisites
 
 Before you begin, ensure you have the following installed:
-- [Go 1.22+](https://go.dev/dl/)
+- [Go 1.26+](https://go.dev/dl/)
 - [GoLand IDE](https://www.jetbrains.com/go/download/) (Latest version recommended)
 - [Docker](https://www.docker.com/get-started) (Required for Docker and Kubernetes modules)
 - [Kubernetes / kubectl](https://kubernetes.io/docs/tasks/tools/) (Required for Kubernetes modules)
@@ -53,12 +53,12 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/mukulmantosh/awesome_goland.git
-   cd awesome_goland
+   git clone https://github.com/mukulmantosh/awesome-goland.git
+   cd awesome-goland
    ```
 2. **Open in GoLand:**
    - Launch GoLand.
-   - Click `Open` and select the `awesome_goland` directory.
+   - Click `Open` and select the `awesome-goland` directory.
 3. **Download dependencies:**
    - GoLand will automatically detect `go.mod` files and prompt you to download dependencies.
    - Alternatively, run: `go mod download` in the root (though many modules have their own `go.mod`).
@@ -294,12 +294,12 @@ Discover quick and powerful ways to boost your productivity in GoLand. Here is t
 
 - **[Modern Go Guidelines – Best practices that help coding agents write clean, efficient, and idiomatic Go code](https://github.com/JetBrains/go-modern-guidelines)**
 
-## YouTube Videos & Playlist
+## YouTube Videos & Conference Talks by GoLand Team
 
 - **[GoLand Playlist](https://www.youtube.com/playlist?list=PLQ176FUIyIUaXlyMXddbZ7TOdW2Yns4yV)**
-- **[Spot the Nil Dereference: How to avoid a billion-dollar mistake](https://www.youtube.com/watch?v=lNnSRakOlvI)**
-- **[GopherCon 2025: Nil Today, Outage Tomorrow - Mukul Mantosh](https://www.youtube.com/watch?v=dEnn45M2Los)**
-- **[GopherCon 2023: The Blueprints to Building Your Own Badass Community - Benjamin Bryant](https://www.youtube.com/watch?v=sxflWkIvRUU)**
+- **[GoWest Conference 2025 - Spot the Nil Dereference: How to avoid a billion-dollar mistake](https://www.youtube.com/watch?v=lNnSRakOlvI)**
+- **[GopherCon 2025 - Nil Today, Outage Tomorrow](https://www.youtube.com/watch?v=dEnn45M2Los)**
+- **[GopherCon 2023 - The Blueprints to Building Your Own Badass Community](https://www.youtube.com/watch?v=sxflWkIvRUU)**
 
 ## Courses
 
