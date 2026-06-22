@@ -275,6 +275,9 @@ Discover quick and powerful ways to boost your productivity in GoLand. Here is t
 
 ## Blogs
 
+- **[Code like a PIRATE with Junie and GoLand](https://blog.jetbrains.com/go/2026/04/02/code-like-a-pirate-with-junie-and-goland/)**
+- **[Popular Go Web Frameworks: A Practical Guide for Developers](https://blog.jetbrains.com/go/2026/04/28/popular-golang-web-frameworks/)**
+- **[A Practical Guide to Profiling in Go](https://blog.jetbrains.com/go/2026/05/20/golang-profiling-guide/)**
 - **[Moving Your Codebase to Go 1.26 With GoLand Syntax Updates](https://blog.jetbrains.com/go/2026/02/13/moving-your-codebase-to-go-1-26-with-goland-syntax-updates/)**
 - **[Best Practices for Secure Error Handling in Go](https://blog.jetbrains.com/go/2026/03/02/secure-go-error-handling-best-practices/)**
 - **[Write Modern Go Code With Junie and Claude Code](https://blog.jetbrains.com/go/2026/02/20/write-modern-go-code-with-junie-and-claude-code/)**
